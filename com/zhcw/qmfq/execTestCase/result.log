@@ -1,0 +1,150 @@
+2017-07-05 14:21:22,963 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 14:21:22,963 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--认购人次数,method = bugNumber,message = 查询成功,resCode = 000000
+2017-07-05 14:21:23,007 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品信息详情,method = produceInfozhengchang,message = 操作成功,resCode = 000000
+2017-07-05 14:21:23,063 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品列表,method = produceListzhengchang,message = 操作成功,resCode = 000000
+2017-07-05 14:21:23,543 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 14:21:23,545 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品列表按进度排序,method = produceList_Order,message = 操作成功,resCode = 000000
+2017-07-05 14:21:23,545 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品支付,method = producePayzhengchangzhifu,message = 您已成功参与疯抢,请及时关注疯抢结果,resCode = 000000
+2017-07-05 14:22:27,975 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 14:22:27,975 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--个人记录,method = userRecorde,message = 查询成功,resCode = 000000
+2017-07-05 14:22:28,357 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 14:22:28,358 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--认购人次数,method = bugNumber,message = 查询成功,resCode = 000000
+2017-07-05 14:22:28,426 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品信息详情,method = produceInfozhengchang,message = 操作成功,resCode = 000000
+2017-07-05 14:22:28,486 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品列表,method = produceListzhengchang,message = 操作成功,resCode = 000000
+2017-07-05 14:22:28,976 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 14:22:28,977 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品列表按进度排序,method = produceList_Order,message = 操作成功,resCode = 000000
+2017-07-05 14:22:28,977 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品支付,method = producePayzhengchangzhifu,message = 您已成功参与疯抢,请及时关注疯抢结果,resCode = 000000
+2017-07-05 14:46:57,256 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 14:46:57,256 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--个人记录,method = userRecorde,message = 查询成功,resCode = 000000
+2017-07-05 14:46:57,477 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 14:46:57,477 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--认购人次数,method = bugNumber,message = 查询成功,resCode = 000000
+2017-07-05 14:46:57,524 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品信息详情,method = produceInfozhengchang,message = 操作成功,resCode = 000000
+2017-07-05 14:57:15,900 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 14:57:15,900 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--个人记录,method = userRecorde,message = 查询成功,resCode = 000000
+2017-07-05 14:57:16,127 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 14:57:16,127 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--认购人次数,method = bugNumber,message = 查询成功,resCode = 000000
+2017-07-05 14:57:16,172 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品信息详情,method = produceInfozhengchang,message = 操作成功,resCode = 000000
+2017-07-05 14:58:42,566 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 14:58:42,566 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--个人记录,method = userRecorde,message = 查询成功,resCode = 000000
+2017-07-05 14:58:42,816 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 14:58:42,817 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--认购人次数,method = bugNumber,message = 查询成功,resCode = 000000
+2017-07-05 14:58:42,883 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品信息详情,method = produceInfozhengchang,message = 操作成功,resCode = 000000
+2017-07-05 14:58:42,942 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品列表,method = produceListzhengchang,message = 操作成功,resCode = 000000
+2017-07-05 14:59:31,805 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 14:59:31,805 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--个人记录,method = userRecorde,message = 查询成功,resCode = 000000
+2017-07-05 14:59:32,079 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 14:59:32,080 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--认购人次数,method = bugNumber,message = 查询成功,resCode = 000000
+2017-07-05 14:59:32,135 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品信息详情,method = produceInfozhengchang,message = 操作成功,resCode = 000000
+2017-07-05 14:59:32,205 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品列表,method = produceListzhengchang,message = 操作成功,resCode = 000000
+2017-07-05 15:02:50,000 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 15:02:50,000 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--个人记录,method = userRecorde,message = 查询成功,resCode = 000000
+2017-07-05 15:02:50,226 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 15:02:50,226 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--认购人次数,method = bugNumber,message = 查询成功,resCode = 000000
+2017-07-05 15:02:50,273 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品信息详情,method = produceInfozhengchang,message = 操作成功,resCode = 000000
+2017-07-05 15:02:50,358 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品列表,method = produceListzhengchang,message = 操作成功,resCode = 000000
+2017-07-05 15:04:27,062 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 15:04:27,062 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--个人记录,method = userRecorde,message = 查询成功,resCode = 000000
+2017-07-05 15:04:27,282 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 15:04:27,282 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--认购人次数,method = bugNumber,message = 查询成功,resCode = 000000
+2017-07-05 15:04:27,329 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品信息详情,method = produceInfozhengchang,message = 操作成功,resCode = 000000
+2017-07-05 15:04:27,387 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品列表,method = produceListzhengchang,message = 操作成功,resCode = 000000
+2017-07-05 15:04:27,903 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 15:04:27,903 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品列表按进度排序,method = produceList_Order,message = 操作成功,resCode = 000000
+2017-07-05 15:04:27,904 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品支付,method = producePayzhengchangzhifu,message = 您已成功参与疯抢,请及时关注疯抢结果,resCode = 000000
+2017-07-05 15:10:26,495 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 15:10:26,495 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--个人记录,method = userRecorde,message = 查询成功,resCode = 000000
+2017-07-05 15:10:26,756 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 15:10:26,756 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--认购人次数,method = bugNumber,message = 查询成功,resCode = 000000
+2017-07-05 15:10:26,812 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品信息详情,method = produceInfozhengchang,message = 操作成功,resCode = 000000
+2017-07-05 15:10:26,868 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品列表,method = produceListzhengchang,message = 操作成功,resCode = 000000
+2017-07-05 15:10:27,362 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 15:10:27,362 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品列表按进度排序,method = produceList_Order,message = 操作成功,resCode = 000000
+2017-07-05 15:10:27,362 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品支付,method = producePayzhengchangzhifu,message = 您已成功参与疯抢,请及时关注疯抢结果,resCode = 000000
+2017-07-05 16:07:21,858 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品信息详情,method = produceInfozhengchang,message = 操作成功,resCode = 000000
+2017-07-05 16:07:21,914 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品列表,method = produceListzhengchang,message = 操作成功,resCode = 000000
+2017-07-05 16:10:23,864 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品信息详情,method = produceInfozhengchang,message = 操作成功,resCode = 000000
+2017-07-05 16:10:23,946 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品列表,method = produceListzhengchang,message = 操作成功,resCode = 000000
+2017-07-05 16:10:24,434 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 16:10:24,434 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品列表按进度排序,method = produceList_Order,message = 操作成功,resCode = 000000
+2017-07-05 16:10:24,435 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品支付,method = producePayzhengchangzhifu,message = 您已成功参与疯抢,请及时关注疯抢结果,resCode = 000000
+2017-07-05 16:18:25,866 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 16:18:25,866 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--个人记录,method = userRecorde,message = 查询成功,resCode = 000000
+2017-07-05 16:18:26,143 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 16:18:26,144 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--认购人次数,method = bugNumber,message = 查询成功,resCode = 000000
+2017-07-05 16:18:26,197 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品信息详情,method = produceInfozhengchang,message = 操作成功,resCode = 000000
+2017-07-05 16:18:26,251 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品列表,method = produceListzhengchang,message = 操作成功,resCode = 000000
+2017-07-05 16:18:27,113 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-05 16:18:27,113 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品列表按进度排序,method = produceList_Order,message = 操作成功,resCode = 000000
+2017-07-05 16:18:27,114 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品支付,method = producePayzhengchangzhifu,message = 您已成功参与疯抢,请及时关注疯抢结果,resCode = 000000
+2017-07-06 13:05:30,701 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-06 13:05:30,701 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--个人记录,method = userRecorde,message = 查询成功,resCode = 000000
+2017-07-06 13:05:30,946 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-06 13:05:30,946 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--认购人次数,method = bugNumber,message = 查询成功,resCode = 000000
+2017-07-06 13:05:30,994 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品信息详情,method = produceInfozhengchang,message = 操作成功,resCode = 000000
+2017-07-06 13:05:31,069 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品列表,method = produceListzhengchang,message = 操作成功,resCode = 000000
+2017-07-06 13:05:31,597 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-06 13:05:31,597 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品列表按进度排序,method = produceList_Order,message = 操作成功,resCode = 000000
+2017-07-06 13:05:31,598 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品支付,method = producePayzhengchangzhifu,message = 您已成功参与疯抢,请及时关注疯抢结果,resCode = 000000
+2017-07-06 19:01:03,138 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-06 19:01:03,139 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--认购人次数,method = bugNumber,message = 查询成功,resCode = 000000
+2017-07-06 19:01:03,186 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品信息详情,method = produceInfozhengchang,message = 操作成功,resCode = 000000
+2017-07-06 19:01:03,260 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品列表,method = produceListzhengchang,message = 操作成功,resCode = 000000
+2017-07-06 19:01:03,809 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-06 19:01:03,809 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品列表按进度排序,method = produceList_Order,message = 操作成功,resCode = 000000
+2017-07-06 19:01:03,810 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品支付,method = producePayzhengchangzhifu,message = 您已成功参与疯抢,请及时关注疯抢结果,resCode = 000000
+2017-07-06 19:03:08,539 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-06 19:03:08,539 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--认购人次数,method = bugNumber,message = 查询成功,resCode = 000000
+2017-07-06 19:03:08,593 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品信息详情,method = produceInfozhengchang,message = 操作成功,resCode = 000000
+2017-07-06 19:03:08,674 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品列表,method = produceListzhengchang,message = 操作成功,resCode = 000000
+2017-07-06 19:03:09,161 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-06 19:03:09,161 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品列表按进度排序,method = produceList_Order,message = 操作成功,resCode = 000000
+2017-07-06 19:03:09,161 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品支付,method = producePayzhengchangzhifu,message = 您已成功参与疯抢,请及时关注疯抢结果,resCode = 000000
+2017-07-06 19:04:17,033 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-06 19:04:17,033 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--认购人次数,method = bugNumber,message = 查询成功,resCode = 000000
+2017-07-06 19:04:17,076 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品信息详情,method = produceInfozhengchang,message = 操作成功,resCode = 000000
+2017-07-06 19:04:17,300 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品列表,method = produceListzhengchang,message = 操作成功,resCode = 000000
+2017-07-06 19:04:17,818 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-06 19:04:17,818 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品列表按进度排序,method = produceList_Order,message = 操作成功,resCode = 000000
+2017-07-06 19:04:17,818 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品支付,method = producePayzhengchangzhifu,message = 您已成功参与疯抢,请及时关注疯抢结果,resCode = 000000
+2017-07-27 16:39:07,750 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-27 16:39:07,763 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--认购人次数,method = bugNumber,message = 查询成功,resCode = 000000
+2017-07-27 16:39:07,830 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品信息详情,method = produceInfozhengchang,message = 操作成功,resCode = 000000
+2017-07-27 16:39:07,895 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品列表,method = produceListzhengchang,message = 操作成功,resCode = 000000
+2017-07-27 16:39:08,557 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-27 16:39:08,557 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品列表按进度排序,method = produceList_Order,message = 操作成功,resCode = 000000
+2017-07-27 16:39:08,557 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品支付,method = producePayzhengchangzhifu,message = 您已成功参与疯抢,请及时关注疯抢结果,resCode = 000000
+2017-07-28 07:14:50,377 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-28 07:14:50,378 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--认购人次数,method = bugNumber,message = 查询成功,resCode = 000000
+2017-07-28 07:14:50,424 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品信息详情,method = produceInfozhengchang,message = 操作成功,resCode = 000000
+2017-07-28 07:14:50,490 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品列表,method = produceListzhengchang,message = 操作成功,resCode = 000000
+2017-07-28 07:14:50,988 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-28 07:14:50,988 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品列表按进度排序,method = produceList_Order,message = 操作成功,resCode = 000000
+2017-07-28 07:14:50,989 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品支付,method = producePayzhengchangzhifu,message = 您已成功参与疯抢,请及时关注疯抢结果,resCode = 000000
+2017-07-28 07:16:33,716 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-28 07:16:33,717 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--认购人次数,method = bugNumber,message = 查询成功,resCode = 000000
+2017-07-28 07:16:33,762 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品信息详情,method = produceInfozhengchang,message = 操作成功,resCode = 000000
+2017-07-28 07:16:33,819 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品列表,method = produceListzhengchang,message = 操作成功,resCode = 000000
+2017-07-28 07:16:34,329 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-28 07:16:34,330 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品列表按进度排序,method = produceList_Order,message = 操作成功,resCode = 000000
+2017-07-28 07:16:34,330 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品支付,method = producePayzhengchangzhifu,message = 您已成功参与疯抢,请及时关注疯抢结果,resCode = 000000
+2017-07-28 07:20:46,600 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-28 07:20:46,600 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--认购人次数,method = bugNumber,message = 查询成功,resCode = 000000
+2017-07-28 07:20:46,656 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品信息详情,method = produceInfozhengchang,message = 操作成功,resCode = 000000
+2017-07-28 07:20:46,713 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品列表,method = produceListzhengchang,message = 操作成功,resCode = 000000
+2017-07-28 07:20:47,175 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-28 07:20:47,176 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品列表按进度排序,method = produceList_Order,message = 操作成功,resCode = 000000
+2017-07-28 07:20:47,177 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品支付,method = producePayzhengchangzhifu,message = 您已成功参与疯抢,请及时关注疯抢结果,resCode = 000000
+2017-07-28 07:23:24,646 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-28 07:23:24,647 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--认购人次数,method = bugNumber,message = 查询成功,resCode = 000000
+2017-07-28 07:23:24,721 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品信息详情,method = produceInfozhengchang,message = 操作成功,resCode = 000000
+2017-07-28 07:23:24,812 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品列表,method = produceListzhengchang,message = 操作成功,resCode = 000000
+2017-07-28 07:23:25,395 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-28 07:23:25,396 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品列表按进度排序,method = produceList_Order,message = 操作成功,resCode = 000000
+2017-07-28 07:23:25,396 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品支付,method = producePayzhengchangzhifu,message = 您已成功参与疯抢,请及时关注疯抢结果,resCode = 000000
+2017-07-28 07:29:19,974 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-28 07:29:19,974 - FileOperator.py:29 - mylogger - testCaseName=UserBuyNumber--认购人次数,method = bugNumber,message = 查询成功,resCode = 000000
+2017-07-28 07:29:20,116 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品信息详情,method = produceInfozhengchang,message = 操作成功,resCode = 000000
+2017-07-28 07:29:20,222 - FileOperator.py:29 - mylogger - testCaseName=request_canshu_zhengque --商品列表,method = produceListzhengchang,message = 操作成功,resCode = 000000
+2017-07-28 07:29:20,811 - FileOperator.py:29 - mylogger - testCaseName=loginTestCase--登录用例,method = loginTC_success,message = 登陆成功,resCode = 000000
+2017-07-28 07:29:20,813 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品列表按进度排序,method = produceList_Order,message = 操作成功,resCode = 000000
+2017-07-28 07:29:20,813 - FileOperator.py:29 - mylogger - testCaseName=request_zhengchang -- 商品支付,method = producePayzhengchangzhifu,message = 您已成功参与疯抢,请及时关注疯抢结果,resCode = 000000

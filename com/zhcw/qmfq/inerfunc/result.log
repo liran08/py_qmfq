@@ -1,0 +1,24 @@
+2017-06-23 10:04:19,198 - FileOperator.py:28 - mylogger - testCaseName=produceinfo,method = request_zhengchang -- 商品信息功能正常测试,message = 登录超时，是否重新登录？,resCode = 3002
+2017-06-23 10:05:56,482 - FileOperator.py:28 - mylogger - testCaseName=produceinfo,method = request_zhengchang -- 商品信息功能正常测试,message = 登录超时，是否重新登录？,resCode = 3002
+2017-06-23 11:29:59,610 - FileOperator.py:28 - mylogger - testCaseName=produceList_Order,method = request_canshu_error --商品信息列表异常测试,message = 操作成功,resCode = 000000
+2017-06-23 11:46:11,822 - FileOperator.py:28 - mylogger - testCaseName=producePay,method = request_zhengchang -- 商品信息功能正常测试,message = 商品id不能为空,resCode = 200007
+2017-06-23 11:47:01,027 - FileOperator.py:28 - mylogger - testCaseName=producePay,method = request_zhengchang -- 商品支付功能正常测试,message = 商品id不能为空,resCode = 200007
+2017-06-23 11:47:43,569 - FileOperator.py:28 - mylogger - testCaseName=producePay,method = request_zhengchang -- 商品支付功能正常测试,message = 商品id不能为空,resCode = 200007
+2017-06-23 11:48:17,866 - FileOperator.py:28 - mylogger - testCaseName=producePay,method = request_zhengchang -- 商品支付功能正常测试,message = 输入金额与参与人次不匹配,resCode = 403067
+2017-06-23 11:49:28,006 - FileOperator.py:28 - mylogger - testCaseName=producePay,method = request_zhengchang -- 商品支付功能正常测试,message = 彩豆余额不足,resCode = 403068
+2017-06-23 13:57:18,824 - FileOperator.py:28 - mylogger - testCaseName=producePay,method = request_zhengchang -- 商品支付功能正常测试,message = 彩豆余额不足,resCode = 403068
+2017-06-23 15:08:29,682 - FileOperator.py:28 - mylogger - testCaseName=producePay,method = request_zhengchang -- 商品支付功能正常测试,message = 彩豆余额不足,resCode = 403068
+2017-06-23 15:11:21,181 - FileOperator.py:28 - mylogger - testCaseName=producePay,method = request_zhengchang -- 商品支付功能正常测试,message = 您已成功参与疯抢
+请及时关注疯抢结果,resCode = 000000
+2017-06-23 15:28:06,918 - FileOperator.py:28 - mylogger - testCaseName=producePay,method = request_zhengchang -- 商品支付功能正常测试,message = 您已成功参与疯抢
+请及时关注疯抢结果,resCode = 000000
+2017-06-23 16:06:56,346 - FileOperator.py:28 - mylogger - testCaseName=producePay,method = request_zhengchang -- 商品支付功能正常测试,message = 您已成功参与疯抢请及时关注疯抢结果,resCode = 000000
+2017-06-23 16:07:18,684 - FileOperator.py:28 - mylogger - testCaseName=producePay,method = request_zhengchang -- 商品支付功能正常测试,message = 您已成功参与疯抢,请及时关注疯抢结果,resCode = 000000
+2017-06-23 16:42:35,603 - FileOperator.py:28 - mylogger - testCaseName=personRecord,method = request_zhengchang -- 商品支付功能正常测试,message = 查询成功,resCode = 000000
+2017-06-23 16:44:11,268 - FileOperator.py:28 - mylogger - testCaseName=producePay,method = request_zhengchang -- 商品支付功能正常测试,message = 您已成功参与疯抢,请及时关注疯抢结果,resCode = 000000
+2017-06-23 16:44:17,855 - FileOperator.py:28 - mylogger - testCaseName=personRecord,method = request_zhengchang -- 商品支付功能正常测试,message = 查询成功,resCode = 000000
+2017-06-23 16:47:43,329 - FileOperator.py:28 - mylogger - testCaseName=producePay,method = request_zhengchang -- 商品支付功能正常测试,message = 您已成功参与疯抢,请及时关注疯抢结果,resCode = 000000
+2017-06-23 16:48:52,879 - FileOperator.py:28 - mylogger - testCaseName=producePay,method = request_zhengchang -- 商品支付功能正常测试,message = 码上奖余额不足,resCode = 403067
+2017-06-23 16:49:10,553 - FileOperator.py:28 - mylogger - testCaseName=producePay,method = request_zhengchang -- 商品支付功能正常测试,message = 您已成功参与疯抢,请及时关注疯抢结果,resCode = 000000
+2017-06-23 16:50:04,315 - FileOperator.py:28 - mylogger - testCaseName=personRecord,method = request_zhengchang -- 商品支付功能正常测试,message = 查询成功,resCode = 000000
+2017-06-27 11:24:04,121 - FileOperator.py:28 - mylogger - testCaseName=personRecord,method = request_zhengchang -- 个人记录,message = 查询成功,resCode = 000000
